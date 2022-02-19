@@ -1,0 +1,46 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor de Sistemas",
+      "foto": "foto1.jpg",
+      "descricao": "Conhecimento total nas linguagens Java, Java Script, C, C++, Phyton",
+      "salario": "15000"
+    },
+    {
+      "id": 2,
+      "nome": "Administrador(a) RH",
+      "foto": "foto2.jpg",
+      "descricao": "Conheimento nas rotinas de RH",
+      "salario": "7500"
+    },
+    {
+      "id": 3,
+      "nome": "Ajudante Geral",
+      "foto": "foto3.jpg",
+      "descricao": "Possuir experiência mínima de 5 anos",
+      "salario": "1800"
+    },
+    {
+      "id": "4",
+      "nome": "Professor(a)",
+      "foto": "foto4.jpg",
+      "descricao": "Fluência em inglês, experiência com trabalhos em empresas",
+      "salario": "2000"
+    },
+    {
+      "id": "5",
+      "nome": "Programador junior",
+      "foto": "foto5.jpg",
+      "descricao": "Conhecimento básico nas linguagens Java, Java Script, C, C++, Phyton",
+      "salario": "3000"
+    },
+    {
+      "id": "6",
+      "nome": "Programador COBOL",
+      "foto": "foto6.jpg",
+      "descricao": "Conhecimento total  em progrmação COBOL",
+      "salario": "25000"
+    }
+  ]
+}

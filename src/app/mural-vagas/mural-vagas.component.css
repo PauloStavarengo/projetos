@@ -1,0 +1,8 @@
+.listar-vagas{
+  display: flex;
+  flex-wrap: wrap;
+}
+.listar-vagas .card{
+  margin: 5px 10px;
+  min-height: 500px;
+}
